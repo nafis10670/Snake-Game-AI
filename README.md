@@ -1,2 +1,2 @@
-# Snake Game Ai
+# Teaching AI to play Snake using Reinforcement Learning
  
